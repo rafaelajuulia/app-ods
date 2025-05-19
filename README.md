@@ -27,7 +27,7 @@ Formulário para criar novos posts com:
 
 ---
 
-## Telas / Páginas,
+## Telas / Páginas
 Home: Lista de posts com destaques e filtros.,
 Post Individual: Exibição completa do conteúdo.,
 Nova Postagem: Formulário para criar post.,
