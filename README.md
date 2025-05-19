@@ -1,4 +1,4 @@
-#3 BLOG PULSO VERDE
+## BLOG PULSO VERDE
 - Blog educativo sobre a ODS 13 (mudanças globais do clima)
 - Blog criado com fins de divulgação de conteúdos relacionados à sustentabilidade, mudanças climáticas, boas práticas ambientais e notícias sobre ações climáticas.
 ---
