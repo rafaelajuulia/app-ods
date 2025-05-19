@@ -19,10 +19,10 @@ Formulário para criar novos posts com:
 - Página inicial com feed de posts (título, resumo e imagem)
 - Página individual do post completo.
 
-## Update,
+## Update
 - Edição de posts existentes (somente por autores ou administradores)
 
-## Delete,
+## Delete
 - Exclusão de posts com confirmação (somente por autores ou administradores).,
 
 ---
