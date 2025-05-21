@@ -47,7 +47,7 @@ Sobre/Contato: Informações sobre o projeto e como colaborar.
 ---
 
 ## Banco de Dados
-- Mongo DB
+- Mongo DB + Java
 
 ## Frontend
 - React
