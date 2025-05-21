@@ -23,17 +23,17 @@ Formulário para criar novos posts com:
 - Edição de posts existentes (somente por autores ou administradores)
 
 ## Delete
-- Exclusão de posts com confirmação (somente por autores ou administradores).,
+- Exclusão de posts com confirmação (somente por autores ou administradores).
 
 ---
 
 ## Telas / Páginas
-Home: Lista de posts com destaques e filtros.,
-Post Individual: Exibição completa do conteúdo.,
-Nova Postagem: Formulário para criar post.,
-Editar Post: Formulário com dados pré-carregados.,
-Painel de Admin: Lista de posts com opções de editar e excluir.,
-Sobre/Contato: Informações sobre o projeto e como colaborar.,
+Home: Lista de posts com destaques e filtros.
+Post Individual: Exibição completa do conteúdo.
+Nova Postagem: Formulário para criar post.
+Editar Post: Formulário com dados pré-carregados.
+Painel de Admin: Lista de posts com opções de editar e excluir.
+Sobre/Contato: Informações sobre o projeto e como colaborar.
 
 ---
 ## Recursos Extras
@@ -45,6 +45,9 @@ Sobre/Contato: Informações sobre o projeto e como colaborar.,
 - Mongo DB
 - JSON Server
 ---
+
+## Banco de Dados
+-Mongo DB
 
 ## Frontend
 - React
