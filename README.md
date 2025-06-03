@@ -8,18 +8,18 @@
 ---
 ## Tecnologias Utilizadas
 FRONTEND:
--react
--vite
+- react
+- vite
 BACKEND:
--node.js
--express
--cors
--mongoose
+- node.js
+- express
+- cors
+- mongoose
 BANCO DE DADOS: 
--MongoDB
+- MongoDB
 ---
 ## Funcionalidades CRUD
-### Create
+##Create
 Formulário para criar novos posts com:
 - Título
 - Imagem
