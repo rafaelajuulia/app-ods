@@ -45,10 +45,10 @@ Formulário para criar novos posts com:
 ---
 
 ## Telas / Páginas
-Home: Lista de posts com destaques e filtros.
-Post Individual: Exibição completa do conteúdo.
-Nova Postagem: Formulário para criar post.
-Editar Post: Formulário com dados pré-carregados.
+- Home: Lista de posts com destaques e filtros.
+- Post Individual: Exibição completa do conteúdo.
+- Nova Postagem: Formulário para criar post.
+- Editar Post: Formulário com dados pré-carregados.
 
 
 
