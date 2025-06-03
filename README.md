@@ -6,9 +6,20 @@
 ## Objetivo do Projeto
 - Promover a conscientização ambiental por meio de um blog que permite que usuários ou administradores criem, leiam, editem e excluam publicações informativas e educativas relacionadas à ODS 13 - Ação Contra a Mudança Global do Clima.
 ---
-
+## Tecnologias Utilizadas
+FRONTEND:
+-react
+-vite
+BACKEND:
+-node.js
+-express
+-cors
+-mongoose
+BANCO DE DADOS: 
+-MongoDB
+---
 ## Funcionalidades CRUD
-### CREATE
+### Create
 Formulário para criar novos posts com:
 - Título
 - Imagem
@@ -32,22 +43,8 @@ Home: Lista de posts com destaques e filtros.
 Post Individual: Exibição completa do conteúdo.
 Nova Postagem: Formulário para criar post.
 Editar Post: Formulário com dados pré-carregados.
-Painel de Admin: Lista de posts com opções de editar e excluir.
-Sobre/Contato: Informações sobre o projeto e como colaborar.
 
----
-## Recursos Extras
-- Login e autenticação de administradores.
-- Tema escuro (dark mode) e layout responsivo.
----
 
-## Backend 
-- Mongo DB
-- JSON Server
----
 
-## Banco de Dados
-- Mongo DB + Java
 
-## Frontend
-- React
+
