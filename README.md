@@ -7,15 +7,15 @@
 - Promover a conscientização ambiental por meio de um blog que permite que usuários ou administradores criem, leiam, editem e excluam publicações informativas e educativas relacionadas à ODS 13 - Ação Contra a Mudança Global do Clima.
 ---
 ## Tecnologias Utilizadas
-FRONTEND:
+-- FRONTEND:
 - react
 - vite
-BACKEND:
+-- BACKEND:
 - node.js
 - express
 - cors
 - mongoose
-BANCO DE DADOS: 
+-- BANCO DE DADOS: 
 - MongoDB
 ---
 ## Funcionalidades CRUD
