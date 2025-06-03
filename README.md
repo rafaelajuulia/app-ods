@@ -63,7 +63,13 @@ Instalar as dependências: express, cors, mongoose:
 Rodar o codigo.
 - node app.js
 ---
-**Frontend:**
+** Frontend: **
+---
+## Comandos:
+- cd Blog-pv 
+- npm install 
+- npm install react-icons
+- npm install react-router-dom
 
 
 
