@@ -24,7 +24,8 @@ BANCO DE DADOS:
 - MongoDB
 ---
 ## Funcionalidades CRUD
-##Create
+
+## Create
 Formulário para criar novos posts com:
 - Título
 - Imagem
