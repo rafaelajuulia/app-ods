@@ -11,14 +11,16 @@ FRONTEND:
 --
 - react
 - vite
+---
   BACKEND:
-  --
+---
 - node.js
 - express
 - cors
 - mongoose
+---
 BANCO DE DADOS:
---
+---
 - MongoDB
 ---
 ## Funcionalidades CRUD
