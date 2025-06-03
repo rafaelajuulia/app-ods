@@ -50,7 +50,8 @@ Formulário para criar novos posts com:
 - Nova Postagem: Formulário para criar post.
 - Editar Post: Formulário com dados pré-carregados.
 
-## Comandos
+## COMANDOS UTILIZADOS
+---
 **Backend:**
 ---
 Iniciar o projeto node.js:
@@ -61,7 +62,7 @@ Instalar as dependências: express, cors, mongoose:
 ---
 Rodar o codigo.
 - node app.js
-
+---
 **Frontend:**
 
 
